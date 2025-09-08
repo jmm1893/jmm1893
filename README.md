@@ -10,8 +10,7 @@ I like building tools that interest me. Mainly: **GIS + woodworking** — from Q
 ---
 
 ## 🔭 Now building
-- Portfolio-ready GIS/QGIS plugins
-- CNC woodworking utilities
+- Jesswoodworks Website
 
 ---
 
